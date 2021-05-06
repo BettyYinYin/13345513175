@@ -1,0 +1,16 @@
+{
+  "name": "3-module-self",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^17.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "bundle": "browserify index.js -o output.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
